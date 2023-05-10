@@ -242,6 +242,7 @@ body._lock {
 }
 
 .card {
+	display: block;
   flex: 0 1 100%;
   background-color: #FFF0DA;
   border-radius: 20px;
